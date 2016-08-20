@@ -1,6 +1,6 @@
 @font-face {
     font-family: Fantasque;
-    src: url('https://raw.githubusercontent.com/kaymmm/CroshCustomFonts/master/FantasqueSansMono-Regular-PA.css');
+    src: url('https://raw.githubusercontent.com/kaymmm/CroshCustomFonts/master/FantasqueSansMono-Regular-PA.ttf');
   }
 x-screen { /* This is the element which contains the lines */
   font-weight: bold;
